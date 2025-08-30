@@ -1,11 +1,4 @@
 
--- =====================================================
--- Trabalho de MySQL
--- Alunos: Daniel Prieto e Israel Paiva
--- RGM:	   11251103847     111251103359
--- =====================================================
-
-
 
 create database trabalho;
 drop database trabalho;
